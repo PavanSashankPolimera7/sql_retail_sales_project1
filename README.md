@@ -1,1 +1,4 @@
-# sql_retail_sales_project1
+# Retail Sales Analysis SQL Project
+
+Project Title: Retail Sales Analysis
+Level: Beginner
